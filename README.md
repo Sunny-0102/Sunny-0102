@@ -10,20 +10,20 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-•	🎓 MS Data Science graduate from the University at Buffalo (SUNY)
-•	🧠 I build applied ML and NLP systems for text validation, quality assurance, and workflow automation
-•	🚀 MLOps minded, with experience in MLflow, Docker, CI/CD, and FastAPI for reproducible and deployable ML workflows
-•	📈 Built forecasting, analytics, and data intelligence projects using large scale real world datasets
-•	🗄️ Comfortable across Python, SQL, BigQuery, Snowflake, AWS, Azure, and Tableau for end to end data solutions
-•	🤝 Open to collaborating on machine learning systems, analytics engineering, and data pipeline projects
+- 🎓 MS Data Science graduate from the University at Buffalo (SUNY)
+-	🧠 I build applied ML and NLP systems for text validation, quality assurance, and workflow automation
+-	🚀 MLOps minded, with experience in MLflow, Docker, CI/CD, and FastAPI for reproducible and deployable ML workflows
+-	📈 Built forecasting, analytics, and data intelligence projects using large scale real world datasets
+-	🗄️ Comfortable across Python, SQL, BigQuery, Snowflake, AWS, Azure, and Tableau for end to end data solutions
+-	🤝 Open to collaborating on machine learning systems, analytics engineering, and data pipeline projects
 
 
 ## 🧠 My Focus Areas
-•	MLOps & Deployment: (MLflow, Docker, CI/CD, Streamlit, FastAPI )
-•	NLP & LLM Evaluation: (Text validation, classification, prompt evaluation)
-•	Time Series Forecasting: (demand prediction, trend analysis, forecasting models)
-•	Data Engineering: (AWS, Snowflake, SQL, ETL/ELT, data warehousing)
-•	Analytics & BI: (Power BI, Tableau, KPI design, drill down analysis)
+- MLOps & Deployment: (MLflow, Docker, CI/CD, Streamlit, FastAPI )
+- NLP & LLM Evaluation: (Text validation, classification, prompt evaluation)
+-	Time Series Forecasting: (demand prediction, trend analysis, forecasting models)
+-	Data Engineering: (AWS, Snowflake, SQL, ETL/ELT, data warehousing)
+-	Analytics & BI: (Power BI, Tableau, KPI design, drill down analysis)
 
 
 ## 📊 GitHub Stats & Trophies
